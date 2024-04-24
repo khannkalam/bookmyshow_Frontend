@@ -1,0 +1,28 @@
+* {
+  margin: 0px;
+  padding: 0px;
+ 
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+  --app-color :#edebf2;
+  --app-Background :rgb(17, 16, 16);
+  --app-Btn :rgb(31, 32, 31);
+}
+
+body {
+  background-image: url(back1.jpeg) ;
+  background-repeat: no-repeat; 
+  background-position: center ;
+  background-size: cover;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}

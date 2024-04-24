@@ -1,0 +1,19 @@
+
+.container1{
+   margin: .2rem 0;
+   padding: 0;
+
+
+    
+}
+
+.image{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 10rem;
+    margin-left: 45%;
+    background-color: rgb(8, 59, 59);
+    border-radius: 90%;
+   
+}
