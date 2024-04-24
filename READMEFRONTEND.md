@@ -2,7 +2,7 @@
 
 <h3 align="center">
   Book Your Show Website preview <br/>
-  <a href="https://book-your-show-ui.onrender.com/" target="_blank"><img alt="Demo" src="./redme-Img.png" /> </a>
+  <a href="https://book-your-show-ui.onrender.com/" target="_blank"><img alt="Demo" src="./readme.png" /> </a>
 </h3>
 
 <br>
